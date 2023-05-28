@@ -55,9 +55,11 @@ I am currently Pursuing AI/ML for my undergrad from India 🇮🇳 .
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
   </div>
   <h3><b> :fire: My Stats : </b></h3>
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ABrockss007&theme=radical)
-
-
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ABrockss007&theme=dark&background=000000)](https://git.io/streak-stats)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ABrockss007&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  
 
 <!--
 **ABrockss007/ABrockss007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
