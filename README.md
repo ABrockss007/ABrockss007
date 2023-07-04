@@ -56,7 +56,7 @@ I am currently Pursuing AI/ML for my undergrad from India 🇮🇳 .
   </div>
   <h3><b> :fire: My Stats : </b></h3>
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ABrockss007&theme=dark&background=000000)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ABrockss007&theme=dark&background=000000)](https://git.io/streak-stats)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ABrockss007&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
