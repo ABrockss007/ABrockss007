@@ -27,10 +27,10 @@
  <hr style="height: 3px;"/>
 
 ### :man_technologist: About Me :
-I am currently Pursuing AI/ML for my undergrad from India 🇮🇳 .
-- 🧐 I’m currently in my Third Year of college and passionately exploring different domains other than AI/ML in tech.
+I am currently Pursuing a Dual Degree program in AI/ML for my undergrad along with Business Intelligence Analytics for my MBA from India 🇮🇳 .
+- 🧐 I’m currently in my Fifth Year of college and passionately exploring different domains other than AI in tech, Business Analytics and Product Management Frameworks.
 
-- :seedling: Currently I am working on Full stack Developement and side by side preparing DSA.
+- :seedling: Currently I am working on Product Development and side by side getting hands on AI Learning.
 
 - :zap: In my free time, I hover over LinkedIn try to gain more knowledge and at the same time try networking.
 
